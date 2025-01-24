@@ -1,0 +1,23 @@
+{
+  "name": "liushabao",
+  "version": "1.0.0",
+  "description": "new project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iamanchalthakur/LiuShaBao.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Iamanchalthakur/LiuShaBao/issues"
+  },
+  "homepage": "https://github.com/Iamanchalthakur/LiuShaBao#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
