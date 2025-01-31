@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "johndoe@example.com",
+    "age": 28,
+    "gender": "Male",
+    "address": {
+      "street": "123 Elm Street",
+      "city": "Springfield",
+      "state": "IL",
+      "zip": "62701"
+    },
+    "phone": "+1-555-123-4567",
+    "isActive": true,
+    "createdAt": "2023-01-15T10:00:00Z"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "email": "janesmith@example.com",
+    "age": 32,
+    "gender": "Female",
+    "address": {
+      "street": "456 Oak Avenue",
+      "city": "Columbus",
+      "state": "OH",
+      "zip": "43215"
+    },
+    "phone": "+1-555-987-6543",
+    "isActive": false,
+    "createdAt": "2023-02-20T14:30:00Z"
+  },
+  {
+    "id": 3,
+    "name": "Alice Johnson",
+    "email": "alicej@example.com",
+    "age": 25,
+    "gender": "Female",
+    "address": {
+      "street": "789 Pine Road",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "73301"
+    },
+    "phone": "+1-555-321-0987",
+    "isActive": true,
+    "createdAt": "2023-03-10T08:15:00Z"
+  },
+  {
+    "id": 4,
+    "name": "Bob Brown",
+    "email": "bobbrown@example.com",
+    "age": 40,
+    "gender": "Male",
+    "address": {
+      "street": "321 Maple Blvd",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80202"
+    },
+    "phone": "+1-555-654-3210",
+    "isActive": true,
+    "createdAt": "2023-04-05T16:45:00Z"
+  },
+  {
+    "id": 5,
+    "name": "Emily Davis",
+    "email": "emilyd@example.com",
+    "age": 29,
+    "gender": "Female",
+    "address": {
+      "street": "159 Cedar Street",
+      "city": "Seattle",
+      "state": "WA",
+      "zip": "98101"
+    },
+    "phone": "+1-555-789-0123",
+    "isActive": false,
+    "createdAt": "2023-05-25T11:20:00Z"
+  }
+]

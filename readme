@@ -1,0 +1,2 @@
+db-migrate up --config config/database.json -e prod
+db-migrate create user --config config/database.json -e prod

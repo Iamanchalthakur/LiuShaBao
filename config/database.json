@@ -1,0 +1,24 @@
+{
+    
+    "dev": {
+        "driver": "mysql",
+        "host": "localhost",
+        "user": "my_user",
+        "password": "my_password",
+        "database": "my_database",
+        "port": "3306",
+        "multipleStatements": true
+      },
+      "prod": {
+        "driver": "mysql",
+        "host"     : "127.0.0.1",
+        "user"     : "my_user",
+        "password" : "my_password",
+        "database" : "my_database",
+        "port"     : "3306",
+        "multipleStatements": true
+      }
+    }
+
+   
+  
